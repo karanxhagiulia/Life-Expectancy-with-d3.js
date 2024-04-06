@@ -1,0 +1,114 @@
+/* styles.css */
+text {
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    background-color: #fff1e1;
+}
+
+h1 {
+    font-family: 'Roboto', sans-serif;
+    text-align: left;
+    font-size:  35px;
+    color: #000c22;
+    margin-left: 5%;
+}
+h2 {
+    font-family: 'Roboto', sans-serif;
+    text-align: left;
+    font-size:  20px;
+    font-weight: 300;
+    color: #4e4e4e;
+    margin-left: 1%;
+    margin-bottom: 5%%;
+
+}
+
+/* Hide tick lines for location names */
+.location-tick line {
+    display: none;
+}
+
+
+.tooltip {
+    position: absolute;
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 10px;
+    border-radius: 5px;
+    pointer-events: none;
+    box-shadow: 0 0 5px rgba(228, 221, 221, 0.3);
+    font-family: 'Roboto', sans-serif;
+    font-size: small;
+}
+
+/* Value numbers */
+.healthy-text {
+    fill: #007eaf; /* Change color of value numbers */
+    font-size: 12px; /* Adjust font size for value numbers */
+}
+
+.life-text {
+    fill: #001449; /* Change color of value numbers */
+    font-size: 12px; /* Adjust font size for value numbers */
+}
+
+/* Update font and size for Y-axis location names */
+.tick {
+    font-family: 'Roboto', sans-serif; /* Use Roboto font */
+    font-size: 18px; /* Adjust font size */
+    fill: #4e4e4e; /* Change color of Y-axis location names */ 
+}
+.tick text {
+    fill: rgb(58, 58, 58); /* Change the color to grey */
+    text-anchor: start;
+
+}
+
+.tick text.outside {
+    text-anchor: start;
+}
+
+
+/* Highlighted row */
+.highlighted {
+    background-color: lightblue; /* Change background color to light blue */
+}
+
+/* Dimmed elements */
+.dimmed {
+    opacity: 0.3; /* Reduce opacity to make dimmed elements lighter */
+}
+/* CSS to change the color of tick lines attached to axis labels */
+
+.bold {
+    font-weight: bold;
+    font-size:x-large;
+}
+
+/* styles.css */
+
+/* Hide the vertical line of the Y-axis */
+.axis.y line {
+    display: none;
+}
+#heading-container {
+    display: flex;
+    align-items: center;
+    margin-left: 50px;
+    margin-bottom: 20px;
+}
+
+#heading-text {
+    flex: 1;
+}
+
+#heading-text h1,
+#heading-text h2 {
+    margin: 0; /* Remove default margin */
+}
+
+#heading-image {
+    max-width: 100px; /* Adjust the maximum width as needed */
+    margin-right: 20px; /* Add some spacing between the image and the text */
+}

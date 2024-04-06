@@ -1,0 +1,158 @@
+ParentLocation,Location,HealthyLifeExpectancy,LifeExpectancy,RetirementAge
+Africa,Lesotho,44.2,54.693,
+Africa,Central African Republic,46.4,54.604,
+Eastern Mediterranean,Somalia,49.7,55.967,
+Africa,Eswatini,50.1,59.692,
+Africa,Mozambique,50.4,61.172,
+Africa,Chad,52.0,52.777,
+Africa,Guinea-Bissau,52.6,59.999,
+Western Pacific,Kiribati,52.6,67.266,
+Africa,Sierra Leone,52.9,59.763,
+Africa,Zimbabwe,53.1,61.124,
+Africa,Guinea,53.3,59.327,
+Africa,South Sudan,53.7,55.48,
+Eastern Mediterranean,Afghanistan,53.9,62.575,
+Africa,Botswana,53.9,65.647,
+Africa,Equatorial Guinea,53.9,60.708,
+Africa,Zambia,54.4,62.38,
+Africa,Cameroon,54.5,60.833,
+Africa,Mali,54.6,58.633,
+Africa,Angola,54.8,62.261,
+Africa,Burkina Faso,54.9,59.731,
+Africa,Liberia,54.9,60.948,
+Africa,Benin,55.5,60.088,
+Africa,Niger,55.5,61.451,
+Africa,Burundi,55.6,61.566,
+Africa,Eritrea,55.7,67.133,
+Americas,Haiti,55.8,64.052,
+Africa,Namibia,56.1,62.829,
+Africa,South Africa,56.2,65.252,63.09999847
+Africa,Togo,56.2,61.035,
+Eastern Mediterranean,Pakistan,56.9,66.269,
+Africa,Malawi,57.1,63.717,
+Western Pacific,Papua New Guinea,57.1,65.787,
+Americas,Guyana,57.2,68.486,
+Africa,Madagascar,57.3,65.182,
+Africa,Gabon,57.6,66.531,
+Africa,Kenya,57.7,62.675,
+Western Pacific,Solomon Islands,57.8,70.199,
+Western Pacific,Vanuatu,57.8,70.299,
+Eastern Mediterranean,Djibouti,58.0,62.694,
+Africa,Ghana,58.0,64.114,
+Africa,Uganda,58.2,62.851,
+Africa,Comoros,58.9,64.166,
+Africa,Senegal,59.4,68.006,
+Western Pacific,Fiji,59.6,67.924,
+Africa,Mauritania,59.8,64.532,
+Africa,Ethiopia,59.9,65.371,
+Eastern Mediterranean,Sudan,59.9,65.614,
+Africa,Rwanda,60.2,66.774,
+South-East Asia,India,60.3,70.15,69.80000305
+Western Pacific,Mongolia,60.3,72.141,
+South-East Asia,Myanmar,60.9,66.797,
+South-East Asia,Timor-Leste,60.9,68.475,
+South-East Asia,Nepal,61.3,69.246,
+Western Pacific,Cambodia,61.5,70.416,
+Africa,Sao Tome and Principe,61.6,67.785,
+Western Pacific,Philippines,62.0,72.119,
+Europe,Tajikistan,62.0,67.994,
+Western Pacific,Samoa,62.1,72.768,
+Europe,Turkmenistan,62.1,68.687,
+Americas,Guatemala,62.3,71.797,
+Americas,Suriname,62.4,72.561,
+Eastern Mediterranean,Iraq,62.7,69.123,
+South-East Asia,Indonesia,62.8,68.808,73.0
+Eastern Mediterranean,Syrian Arab Republic,62.9,72.14,
+Americas,Honduras,63.0,71.462,
+South-East Asia,Bhutan,63.4,71.609,
+Europe,Azerbaijan,63.6,66.868,
+Eastern Mediterranean,Morocco,63.7,73.92,
+Americas,Grenada,63.9,74.924,
+Africa,Mauritius,63.9,74.1770731707317,
+Americas,Dominican Republic,64.0,72.889,
+Eastern Mediterranean,Saudi Arabia,64.0,76.239,
+Africa,Seychelles,64.0,77.23658536585367,
+Western Pacific,Tonga,64.0,70.928,
+Europe,Russian Federation,64.2,71.3387804878049,
+South-East Asia,Bangladesh,64.3,71.968,
+Europe,Ukraine,64.3,71.18512195121953,
+Europe,Georgia,64.7,72.765,
+Eastern Mediterranean,Oman,64.7,74.757,
+Europe,Uzbekistan,64.7,70.331,
+Africa,Cabo Verde,64.8,74.808,
+Americas,El Salvador,64.9,71.061,
+Europe,Kazakhstan,65.0,71.37,
+Eastern Mediterranean,Libya,65.2,72.472,
+Americas,Belize,65.3,72.854,
+Americas,Brazil,65.4,74.009,66.59999847
+Americas,Nicaragua,65.5,71.795,
+Western Pacific,Brunei Darussalam,65.6,74.795,
+Western Pacific,Malaysia,65.7,75.938,
+Americas,Mexico,65.8,70.133,71.30000305
+Americas,Paraguay,65.8,73.182,
+Eastern Mediterranean,Bahrain,65.9,79.174,
+Europe,Belarus,66.0,74.2268292682927,
+Eastern Mediterranean,Lebanon,66.0,77.804,
+Eastern Mediterranean,United Arab Emirates,66.0,78.946,
+Europe,Latvia,66.2,75.3878048780488,65.69999695
+Americas,Trinidad and Tobago,66.2,74.406,
+Europe,Bulgaria,66.3,73.60731707317075,64.69999695
+Africa,Algeria,66.4,74.453,
+Americas,Jamaica,66.6,71.869,
+Europe,Lithuania,66.7,74.92926829268295,64.30000305
+Europe,Romania,66.8,74.35365853658537,68.80000305
+Europe,Serbia,66.9,74.22926829268295,
+Eastern Mediterranean,Tunisia,66.9,75.292,
+Americas,Antigua and Barbuda,67.0,78.841,
+Americas,Barbados,67.0,77.393,
+Europe,Montenegro,67.0,75.93170731707318,
+South-East Asia,Sri Lanka,67.0,76.393,
+Americas,Argentina,67.1,75.892,66.59999847
+Europe,Armenia,67.1,72.173,
+Eastern Mediterranean,Qatar,67.1,79.099,
+Europe,Bosnia and Herzegovina,67.2,76.225,
+Europe,Hungary,67.2,75.6170731707317,63.40000153
+Americas,Uruguay,67.5,78.43,
+Eastern Mediterranean,Jordan,67.6,75.184,
+Americas,Cuba,67.8,77.567,
+South-East Asia,Thailand,68.3,79.274,
+Western Pacific,China,68.5,78.077,
+Americas,Ecuador,68.5,72.153,
+Europe,Croatia,68.6,77.72439024390245,61.70000076
+Americas,Panama,68.7,76.657,
+Europe,Poland,68.7,76.6,62.79999924
+Europe,Czechia,68.8,78.22682926829269,63.20000076
+Americas,Colombia,69.0,74.769,
+Europe,Albania,69.1,76.989,
+Europe,Estonia,69.2,78.34634146341465,65.5
+Americas,Peru,69.5,73.665,
+Americas,Chile,70.0,79.377,70.0
+Americas,Costa Rica,70.0,79.277,
+South-East Asia,Maldives,70.0,79.875,
+Eastern Mediterranean,Kuwait,70.1,76.92,
+Western Pacific,New Zealand,70.2,82.05609756097562,69.80000305
+Europe,Belgium,70.6,80.79512195121951,61.59999847
+Europe,Slovenia,70.7,80.53170731707318,63.09999847
+Western Pacific,Australia,70.9,83.2,65.30000305
+Europe,Austria,70.9,81.19268292682928,63.5
+Europe,Germany,70.9,80.94146341463416,64.0
+Europe,Greece,70.9,81.0878048780488,61.70000076
+Europe,Denmark,71.0,81.55121951219513,65.09999847
+Europe,Finland,71.0,82.13170731707318,64.30000305
+Europe,Portugal,71.0,80.97560975609757,68.5
+Europe,Ireland,71.1,82.2048780487805,65.59999847
+Americas,Canada,71.3,81.7487804878049,65.5
+Europe,Netherlands,71.4,81.40975609756097,65.19999695
+Europe,Norway,71.4,83.20975609756097,66.09999847
+Europe,Malta,71.5,82.65365853658537,64.19999695
+Europe,Luxembourg,71.6,81.74146341463415,60.5
+Europe,Italy,71.9,82.3439024390244,63.29999924
+Europe,Sweden,71.9,82.40731707317074,66.40000153
+Europe,Iceland,72.0,83.06585365853661,68.09999847
+Europe,France,72.1,82.17560975609757,60.79999924
+Europe,Spain,72.1,82.33414634146342,62.09999847
+Europe,Cyprus,72.4,81.391,64.90000153
+Europe,Israel,72.4,82.7,69.40000153
+Europe,Switzerland,72.5,83.1,66.40000153
+Western Pacific,Singapore,73.6,83.74390243902441,
+Western Pacific,Japan,74.1,84.61560975609757,70.80000305
