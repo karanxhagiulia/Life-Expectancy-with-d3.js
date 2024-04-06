@@ -112,3 +112,20 @@ h2 {
     max-width: 100px; /* Adjust the maximum width as needed */
     margin-right: 20px; /* Add some spacing between the image and the text */
 }
+
+
+#footer {
+    background-color: #f2f2f2;
+    padding: 15px;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+#footer a {
+    color: #00355a;
+    text-decoration: none;
+}
+
+#footer a:hover {
+    text-decoration: underline;
+}
